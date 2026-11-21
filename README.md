@@ -10,4 +10,3 @@ C projects built on instructor-provided starter code.
 | p3 | Storage Class Memory Manager |
 | p4 | Key/Value File System (direct I/O on a loopback block device) |
 | p5 | System Performance Monitor |
-EOF
