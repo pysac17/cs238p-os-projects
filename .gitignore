@@ -1,0 +1,9 @@
+.DS_Store
+*.o
+*.so
+*.a
+*.out
+a.out
+*.zip
+*.log
+*.dSYM/
